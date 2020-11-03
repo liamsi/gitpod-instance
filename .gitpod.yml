@@ -2,6 +2,4 @@ image: gitpod/workspace-full
 checkoutLocation: "interview"
 workspaceLocation: "./interview/"
 tasks:
-  - init: >
-      go get -v ./... &&
-      go build -o app
+  - init: go get -v ./...
