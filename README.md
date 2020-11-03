@@ -1,2 +1,3 @@
-# gitpod-instance
-Repo to spin up a gitpod from
+# TBA
+
+Repo to spin up a gitpod instance from.
